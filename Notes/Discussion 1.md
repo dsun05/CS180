@@ -43,10 +43,6 @@ Therefore, $\sqrt{2}$ is irrational.
 - If $\sqrt{k} \not\in \mathbb{Z}$ for integer $k$, then it's irrational.
 - Using similar contradiction logic, one can show that if $\sqrt{k} = a/b$, and $\sqrt{k} \not\in \mathbb{Z}$, then both $a$ and $b$ would share a common factor related to $k$, which violates the condition that $\gcd(a, b) = 1$.
 
-You are correct. The `aligned` environment is the standard, but let's try a different, more universally supported presentation for the derivation to ensure it renders correctly for you.
-
-Here is the corrected "Mathematical Induction" section with a focus on ensuring the inductive step's formatting is robust.
-
 ***
 
 ## 2.3. Mathematical Induction
